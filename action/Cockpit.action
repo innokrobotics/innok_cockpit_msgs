@@ -1,0 +1,6 @@
+string args
+---
+bool success
+string result
+---
+string status
